@@ -43,8 +43,5 @@
 <li>Получить значение метрики ROC AUC</li>
 <li>Увеличить значение метрики</li>
 </ul>
-<br/>
-<h2>openDataScience</h2>
-<p>Дополнительный бесплатный курс машинного обучения (<a href="https://habr.com/ru/company/ods/blog/322626/">cтатьи</a> и <a href="https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl">лекции</a>). В репозитории хранятся практические задачи курсов, которые я полностю разобрал</p> 
 
 
